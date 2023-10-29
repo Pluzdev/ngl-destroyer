@@ -1,12 +1,9 @@
 <a id="top"></a>
-#
-
 <h1 align="center">
 NGL DESTROYER
 </h1>
 
 ## 🌐 〢 Content
-
 - [📁 Requirements](#setup)
 - [📸 Screenshots](#screenshot)
 - [⚠️ Note](#note)
