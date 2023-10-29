@@ -45,9 +45,10 @@ NGL DESTROYER
 > - Discord notifications
 > - 
 ---
-<br>
+
 ### ⚠️ 〢 Note
 <a id="note"></a>
+
 This is an improved version of [this](https://github.com/0MeMo07/NGL-Spammer/) repository. Thanks to [0MeMo07](https://github.com/0MeMo07/) for the initial code
 <br>
 I am not responsible for any damages this software may cause after being acquired. This software was made for personal education and sandbox testing.
