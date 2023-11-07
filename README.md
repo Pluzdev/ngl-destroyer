@@ -19,7 +19,6 @@ NGL DESTROYER
 <a id="setup"></a>
 > - Install [Python]([https://nodejs.org/dist/v18.15.0/node-v18.15.0-x64.msi](https://www.python.org/downloads/)) `IMPORTANT: Install python version 3.x`
 > - Just do `pip install -r requirements.txt` to install the required packages
-> - 
 <br>
 
 ### ⚔️ 〢 Features
